@@ -11,7 +11,9 @@ In this project, I used the Ultralytics YOLOv8 model to successfully detect occu
 📌 Project Highlights:
 Object classes: car (occupied) and free (available)
 Detected objects are visualized with bounding boxes:
+
 🟪 Purple: Available parking spot
+
 🟩 Green: Occupied parking spot
 
 Low-confidence detections are filtered using a custom threshold
