@@ -1,0 +1,7 @@
+path: C:\Users\Aleyna\Desktop\Aleyna\isGEDİK\ParkingLot\train
+
+train: images/train # relative to path
+val: images/val # relative to path
+test: images/test # relative to path
+nc: 2
+names: ['car', 'free']
